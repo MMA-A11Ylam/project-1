@@ -62,7 +62,7 @@ const Navbar = () => {
             animate = 'visible'
             exit= 'hidden'
             variants={containerVarient}
-            className='fixed inset-0 z-20 flex flex-col items-center justify-center bg-black text-white'>
+            className='fixed inset-0 z-20 flex flex-col items-center justify-center bg-black'>
                 <ul className='space-y-6 text-3xl'>
                     {
                         LINKS.map((link)=>(
