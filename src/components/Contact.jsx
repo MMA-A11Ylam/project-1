@@ -15,7 +15,7 @@ const Contact = () => {
                 <a href={link.href} key={index} target='_blank'>{link.icon}</a>
             ))}
         </div>
-        <p className='my-8 text-center text-gray-400'>&copy; Mudassir Abdullah. All rights reserved</p>
+        <p className='my-8 text-center text-gray-400'>&copy; Sibgha Eman. All rights reserved</p>
     </section>
     </>
   )

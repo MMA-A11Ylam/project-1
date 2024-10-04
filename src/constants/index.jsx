@@ -30,7 +30,7 @@ export const MARQUEE_TEXT =
 export const PROJECTS = [
   {
     id: 1,
-    title: "E-commerce Website",
+    title: "E-commerce Website text-black",
     description:
       "A full-featured e-commerce website built with React and Node.js.",
     imgSrc: project1,
@@ -148,6 +148,6 @@ export const SOCIAL_MEDIA_LINKS = [
 
 export const CONTACT = {
   text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
-  email: "muk787901@gmail.com",
-  phone: "+(92 - 30090080)",
+  email: "sibghae63@gmail.com",
+  phone: "+(92 - 32193480)",
 };
